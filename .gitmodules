@@ -1,3 +1,9 @@
 [submodule "dennic_api_gateway"]
 	path = dennic_api_gateway
 	url = git@github.com:yigitaliyevamubina/dennic_api_gateway.git
+[submodule "dennic_session_service"]
+	path = dennic_session_service
+	url = git@github.com:yigitaliyevamubina/dennic_session_service.git
+[submodule "dennic_user_service"]
+	path = dennic_user_service
+	url = git@github.com:yigitaliyevamubina/dennic_user_service.git
