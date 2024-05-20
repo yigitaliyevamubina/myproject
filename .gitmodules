@@ -7,3 +7,9 @@
 [submodule "dennic_user_service"]
 	path = dennic_user_service
 	url = git@github.com:yigitaliyevamubina/dennic_user_service.git
+[submodule "dennic_booking_service"]
+	path = dennic_booking_service
+	url = git@github.com:yigitaliyevamubina/dennic_booking_service.git
+[submodule "dennic_healthcare_service"]
+	path = dennic_healthcare_service
+	url = git@github.com:yigitaliyevamubina/dennic_healthcare_service.git
